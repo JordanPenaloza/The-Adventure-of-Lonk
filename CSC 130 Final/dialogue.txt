@@ -1,0 +1,5 @@
+string1*Jimmy: 'im so hongry plz gimme mcdonalds'
+string2*Jimmy: 'nvm I wants wendy's sammich'
+string3*Jimmy: 'wait what about arbys sammich :o'
+string4*Jimmy: 'ooo look burito'
+string5*Jimmy: 'ok im not hongry'

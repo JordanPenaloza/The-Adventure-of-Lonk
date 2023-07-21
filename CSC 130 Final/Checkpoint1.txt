@@ -1,0 +1,3 @@
+public void addSpriteToFrontBuffer(int x, int y, String spriteTag);
+
+public void drawString(int x, int y, String text, Color c);
